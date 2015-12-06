@@ -1,0 +1,36 @@
+res/player1_spritesheet.png
+16 24
+0 2
+8
+
+walk_unarmed
+4 
+0 1 2 3
+
+walk_revolver
+4 
+4 5 6 7
+
+walk_shotgun
+4 
+8 9 10 11
+
+walk_plasmagun
+4 
+12 13 14 15
+
+stand_unarmed
+1 
+1
+
+stand_revolver
+1 
+5
+
+stand_shotgun
+1 
+9
+
+stand_plasmagun
+1 
+13
